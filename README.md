@@ -33,6 +33,8 @@ This repository contains the code and models used for the Mission Mars Terrain C
 - **PyTorch**
 - **NumPy**
 - **Pandas**
+- **Matplotlib**
+  
 
 ## Project Structure
 
