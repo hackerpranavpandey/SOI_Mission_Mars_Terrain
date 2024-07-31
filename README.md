@@ -25,6 +25,7 @@ SOFTWARE.
 
 # Mission Mars Terrain Classification
 
+This project is the part of the SOI Competitoon Organized by Space and Data Science Club at IIT Dharwad. I took part in the event and got accuracy of more than 99% for the training dataset and 96% for the validation dataset. Ultimately predicted the test dataset based on the trained REsNet152 Model.
 This repository contains the code and models used for the Mission Mars Terrain Classification project. The goal of this project is to classify different types of terrain on Mars using deep learning models.
 
 ## Tech Stack
@@ -57,9 +58,10 @@ After extensive experimentation, **ResNet152** was chosen for the final model du
 
 ## How to Use
 
-1. **Training the Model**: Open `Train_ResNet152.ipynb` and run all cells to train the ResNet152 model.
-2. **Testing the Model**: Open `Test_ResNet152.ipynb` and run all cells to test the model on the test dataset.
-3. **Final Predictions**: The final predictions can be found in `MissionMarsTerrain_submission.csv`.
+1. **Upload the dataset**: Make sure to upload the dataset on the correct path in the drive or else you can choose to change the path.
+2. **Training the Model**: Open `Train_ResNet152.ipynb` and run all cells to train the ResNet152 model.
+3. **Testing the Model**: Open `Test_ResNet152.ipynb` and run all cells to test the model on the test dataset.
+4. **Final Predictions**: The final predictions for the test dataset can be found in `MissionMarsTerrain_submission.csv`.
 
 ## Results
 
@@ -68,4 +70,4 @@ The final model achieved high validation accuracy and the predictions on the tes
 ## Acknowledgements
 
 - This project uses models and libraries from PyTorch.
-- Special thanks to the contributors and the open-source community.
+- Special thanks to the contributors and the open-source community for making this available to use fro free to use these software tolls.
