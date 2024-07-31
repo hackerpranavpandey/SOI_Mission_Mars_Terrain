@@ -25,8 +25,10 @@ SOFTWARE.
 
 # Mission Mars Terrain Classification
 
-This project is the part of the SOI Competitoon Organized by Space and Data Science Club at IIT Dharwad. I took part in the event and got accuracy of more than 99% for the training dataset and 96% for the validation dataset. Ultimately predicted the test dataset based on the trained REsNet152 Model.
+This project is the part of the SOI Competition Organized by Space and Data Science Club at IIT Dharwad. I took part in the event and got accuracy of more than 99% for the training dataset and 96% for the validation dataset. Ultimately predicted the test dataset based on the trained REsNet152 Model.
+
 This repository contains the code and models used for the Mission Mars Terrain Classification project. The goal of this project is to classify different types of terrain on Mars using deep learning models.
+
 Project was a team work so I worked on ML,Train_CNN_Scratch,Train_ResNet152,Test_ResNet152,Train_Vision_Transformer Notebook and one more member worked on SOI_SDS_Classes_ResNet18_DesNet Notebook.
 
 ## Tech Stack
