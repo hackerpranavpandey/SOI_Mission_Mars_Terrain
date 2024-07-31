@@ -51,6 +51,7 @@ The following models were explored during the project:
 - DenseNet
 - ResNet18
 - EfficientNet
+- ResNet 152
 
 After extensive experimentation, **ResNet152** was chosen for the final model due to its high validation accuracy.
 
