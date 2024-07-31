@@ -27,6 +27,7 @@ SOFTWARE.
 
 This project is the part of the SOI Competitoon Organized by Space and Data Science Club at IIT Dharwad. I took part in the event and got accuracy of more than 99% for the training dataset and 96% for the validation dataset. Ultimately predicted the test dataset based on the trained REsNet152 Model.
 This repository contains the code and models used for the Mission Mars Terrain Classification project. The goal of this project is to classify different types of terrain on Mars using deep learning models.
+Project was a team work so I worked on ML,Train_CNN_Scratch,Train_ResNet152,Test_ResNet152,Train_Vision_Transformer Notebook and one more member worked on SOI_SDS_Classes_ResNet18_DesNet Notebook.
 
 ## Tech Stack
 
@@ -38,7 +39,12 @@ This repository contains the code and models used for the Mission Mars Terrain C
   
 
 ## Project Structure
-
+- `Mars_Lander_ML.ipynb` : Notebook for training different ML models like Logistic Regression, Decision Teee, Random Forest and Xgboost.
+- `SOI_Mission_Mars_Terrain_Report`: Report file about our approach and how we concluded to choose ResNet152.
+- `SOI_Mission_Mars_Terrain_Contribution`: File containing contributions of both members.
+- `Train_CNN_Scratch.ipynb`: Notebook for training CNN model from scratch.
+- `Train_Vision_Transformer.ipynb`: Notebook for testing the Vision Transformer model thart was pretrained.
+- `SOI_SDS_Classes_ResNet18_DesNet.ipynb`: This was trained by another team member.
 - `Train_ResNet152.ipynb`: Notebook for training the ResNet152 model.
 - `Test_ResNet152.ipynb`: Notebook for testing the ResNet152 model on the test dataset.
 - `MissionMarsTerrain_submission.csv`: Final predictions on the test dataset.
